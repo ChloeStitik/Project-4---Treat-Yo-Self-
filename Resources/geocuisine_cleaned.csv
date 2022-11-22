@@ -1,0 +1,113 @@
+Place ID,Latitude,Longitude,Name,Alcohol,Smoking,Dress Code,Accessibility,Price,Ambience,Area,Cuisine
+135109,18.921785,-99.23535,Paniroles,Wine-Beer,not permitted,informal,no_accessibility,medium,quiet,closed,Italian
+135106,22.149709,-100.976093,El Rinc�n de San Francisco,Wine-Beer,only at bar,informal,partially,medium,familiar,open,Mexican
+135104,23.752982,-99.168434,vips,Full_Bar,not permitted,informal,completely,medium,familiar,closed,Mexican
+135088,18.876011,-99.21989,Cafeteria cenidet,No_Alcohol_Served,not permitted,informal,no_accessibility,low,quiet,closed,Cafeteria
+135086,22.141421,-101.013955,Mcdonalds Parque Tangamanga,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,closed,Burgers
+135086,22.141421,-101.013955,Mcdonalds Parque Tangamanga,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,closed,Fast_Food
+135085,22.150802,-100.98268,Tortas Locas Hipocampo,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,closed,Fast_Food
+135079,22.156376,-100.998355,Koye Sushi,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,closed,Chinese
+135075,22.139573,-100.991564,Mariscos El Pescador,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,Seafood
+135074,22.149689,-100.999525,Restaurante la Parroquia Potosina,Wine-Beer,section,informal,no_accessibility,high,familiar,closed,Contemporary
+135073,22.147175,-100.974269,Restaurante Bar El Gallinero,Wine-Beer,section,informal,no_accessibility,high,familiar,closed,Bar
+135073,22.147175,-100.974269,Restaurante Bar El Gallinero,Wine-Beer,section,informal,no_accessibility,high,familiar,closed,Bar_Pub_Brewery
+135072,22.149192,-101.002936,Sushi Itto,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,Japanese
+135071,22.126375,-100.910926,Restaurante la Cantina,Full_Bar,section,informal,no_accessibility,medium,familiar,closed,Bar
+135071,22.126375,-100.910926,Restaurante la Cantina,Full_Bar,section,informal,no_accessibility,medium,familiar,closed,Bar_Pub_Brewery
+135069,22.140129,-100.944872,Abondance Restaurante Bar,Wine-Beer,none,informal,no_accessibility,low,familiar,closed,Bar
+135060,22.156883,-100.978485,Restaurante Marisco Sam,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,Seafood
+135059,22.145108,-100.989547,Restaurant Bar Hacienda los Martinez,Wine-Beer,section,informal,no_accessibility,medium,familiar,closed,Bar
+135058,22.165587,-101.001273,Restaurante Tiberius,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,Pizzeria
+135057,22.145992,-100.955118,El Herradero Restaurante and Bar,Wine-Beer,section,informal,no_accessibility,medium,familiar,closed,Bar
+135055,22.148854,-101.008472,la Cochinita Pibil Restaurante Yucateco,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,closed,Mexican
+135054,22.140626,-100.915657,Restaurante y Pescaderia Tampico,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,closed,Seafood
+135053,22.178931,-101.012861,La Fontana Pizza Restaurante and Cafe,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,closed,Cafeteria
+135053,22.178931,-101.012861,La Fontana Pizza Restaurante and Cafe,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,closed,Fast_Food
+135053,22.178931,-101.012861,La Fontana Pizza Restaurante and Cafe,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,closed,Pizzeria
+135052,22.150981,-100.977412,La Cantina Restaurante,Full_Bar,none,informal,no_accessibility,high,familiar,closed,Bar
+135052,22.150981,-100.977412,La Cantina Restaurante,Full_Bar,none,informal,no_accessibility,high,familiar,closed,Bar_Pub_Brewery
+135049,22.135011,-101.0286,Restaurante de Mariscos la Langosta,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,Seafood
+135048,22.142017,-100.999246,Restaurante Bar Fu-hao,Wine-Beer,none,informal,no_accessibility,high,familiar,closed,Bar
+135046,22.141282,-101.002958,Restaurante El Reyecito,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,Fast_Food
+135044,22.141848,-100.997475,Restaurant Wu Zhuo Yi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,Chinese
+135043,22.185756,-100.944518,pizza clasica,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,Fast_Food
+135043,22.185756,-100.944518,pizza clasica,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,Pizzeria
+135042,22.159357,-100.973411,Restaurant Oriental Express,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,Chinese
+135041,22.15106,-100.977659,Luna Cafe,Wine-Beer,none,informal,no_accessibility,medium,familiar,closed,Bar
+135041,22.15106,-100.977659,Luna Cafe,Wine-Beer,none,informal,no_accessibility,medium,familiar,closed,Cafeteria
+135039,22.145893,-100.97487,Restaurant de Mariscos de Picon,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,closed,Seafood
+135035,22.145813,-101.018032,El Mundo de la Pasta,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,closed,Italian
+135034,22.140517,-101.021422,Michiko Restaurant Japones,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,Japanese
+135032,22.152481,-100.973486,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,no_accessibility,medium,familiar,closed,Cafeteria
+135032,22.152481,-100.973486,Cafeteria y Restaurant El Pacifico,Wine-Beer,section,informal,no_accessibility,medium,familiar,closed,Contemporary
+135030,22.14788,-100.989472,Preambulo Wifi Zone Cafe,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,closed,Cafe-Coffee_Shop
+135030,22.14788,-100.989472,Preambulo Wifi Zone Cafe,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,closed,Cafeteria
+135028,22.146658,-100.987219,La Virreina,Wine-Beer,none,informal,no_accessibility,medium,familiar,closed,Mexican
+135027,22.147145,-100.974494,Restaurant Orizatlan,Wine-Beer,none,informal,no_accessibility,medium,familiar,closed,Mexican
+135026,22.148665,-101.001273,la Cantina,Full_Bar,none,informal,no_accessibility,high,familiar,closed,Bar
+135026,22.148665,-101.001273,la Cantina,Full_Bar,none,informal,no_accessibility,high,familiar,closed,Bar_Pub_Brewery
+135025,22.14955,-100.97797,El Rincon de San Francisco,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,Mexican
+135021,18.933537,-99.222497,Subway,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,closed,Fast_Food
+135019,18.875011,-99.159422,Restaurant Bar Coty y Pablo,No_Alcohol_Served,none,informal,completely,low,familiar,closed,Bar
+135018,18.859803,-99.222164,El Oceano Dorado,Full_Bar,permitted,informal,completely,medium,familiar,open,Mexican
+134999,18.915421,-99.184871,Kiku Cuernavaca,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,Japanese
+134986,18.928798,-99.239513,Restaurant Las Mananitas,Wine-Beer,none,formal,no_accessibility,high,familiar,closed,International
+134983,18.948657,-99.235361,Restaurant and Bar and Clothesline Carlos N Charlies,Full_Bar,section,informal,no_accessibility,high,familiar,closed,Bar
+134983,18.948657,-99.235361,Restaurant and Bar and Clothesline Carlos N Charlies,Full_Bar,section,informal,no_accessibility,high,familiar,closed,Bar_Pub_Brewery
+134976,18.916654,-99.22711,Log Yin,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,closed,Mexican
+134976,18.916654,-99.22711,Log Yin,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,closed,Mediterranean
+134976,18.916654,-99.22711,Log Yin,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,closed,Burgers
+132958,22.144979,-101.005683,tacos los volcanes,No_Alcohol_Served,none,informal,completely,low,quiet,closed,American
+132955,22.147622,-101.010275,emilianos,Wine-Beer,none,informal,completely,low,familiar,closed,Bar_Pub_Brewery
+132954,22.160381,-100.988045,la parroquia,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,closed,Breakfast-Brunch
+132951,22.154474,-100.985809,VIPS,No_Alcohol_Served,not permitted,casual,completely,low,familiar,closed,American
+132937,22.150019,-100.97992,rockabilly ,Full_Bar,section,informal,completely,low,quiet,closed,Bar
+132925,22.1535,-100.976243,el pueblito,Wine-Beer,not permitted,informal,completely,medium,familiar,closed,Mexican
+132922,22.151135,-100.982312,cafe punta del cielo,No_Alcohol_Served,permitted,formal,completely,medium,familiar,closed,Cafeteria
+132921,22.150305,-100.989134,crudalia,Wine-Beer,section,casual,completely,low,quiet,open,Bar
+132885,22.179517,-100.958436,Hamburguesas saul,No_Alcohol_Served,none,informal,completely,low,familiar,closed,Cafeteria
+132875,22.149901,-100.993779,shi ro ie,Wine-Beer,section,informal,no_accessibility,high,familiar,open,Japanese
+132872,22.173596,-100.994603,Pizzeria Julios,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,closed,American
+132870,22.143078,-100.935479,Tortas y hamburguesas el gordo,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,closed,Burgers
+132869,22.141238,-100.923925,Dominos Pizza,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,closed,Pizzeria
+132866,22.14122,-100.931311,Chaires,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,closed,Bakery
+132866,22.14122,-100.931311,Chaires,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,closed,Cafeteria
+132862,22.150643,-100.987015,La Posada del Virrey,Wine-Beer,none,casual,completely,high,familiar,closed,International
+132861,22.148097,-101.017302,Carls Jr,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,closed,Burgers
+132858,22.131292,-100.937194,Hamburguesas Valle Dorado,No_Alcohol_Served,none,informal,completely,low,familiar,closed,Burgers
+132856,22.151378,-100.974634,Unicols Pizza,Wine-Beer,none,informal,completely,low,familiar,closed,Italian
+132854,22.137863,-100.938327,Sirlone,Wine-Beer,none,informal,completely,medium,familiar,closed,International
+132851,22.136872,-100.934574,KFC,No_Alcohol_Served,not permitted,informal,completely,low,familiar,closed,American
+132851,22.136872,-100.934574,KFC,No_Alcohol_Served,not permitted,informal,completely,low,familiar,closed,Game
+132846,22.142273,-100.942654,el lechon potosino ,No_Alcohol_Served,permitted,casual,no_accessibility,low,familiar,open,International
+132845,22.126293,-100.900776,Cenaduria El Rincón de Tlaquepaque,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,Mexican
+132834,22.156469,-100.98554,Gorditas Doa Gloria,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,closed,Mexican
+132825,22.147392,-100.983092,puesto de tacos,No_Alcohol_Served,none,informal,completely,low,familiar,open,Mexican
+132773,18.869993,-99.21032,El cotorreo,Wine-Beer,permitted,informal,no_accessibility,low,familiar,open,Family
+132773,18.869993,-99.21032,El cotorreo,Wine-Beer,permitted,informal,no_accessibility,low,familiar,open,Mexican
+132768,18.925773,-99.232636,Mariscos Tia Licha,No_Alcohol_Served,not permitted,casual,partially,medium,familiar,closed,Family
+132767,18.882087,-99.163027,Restaurant Familiar El Chino,Wine-Beer,permitted,casual,partially,medium,familiar,open,Vietnamese
+132766,18.910178,-99.231544,Mikasa,Wine-Beer,none,informal,no_accessibility,medium,familiar,closed,Japanese
+132755,22.153324,-101.019546,La Estrella de Dimas,No_Alcohol_Served,none,informal,partially,medium,familiar,closed,Mexican
+132754,22.147738,-100.990616,Cabana Huasteca,No_Alcohol_Served,none,informal,partially,medium,familiar,closed,Mexican
+132740,23.752197,-99.166632,Carreton de Flautas y Migadas,No_Alcohol_Served,permitted,informal,completely,low,familiar,open,Mexican
+132733,23.752707,-99.162566,Little Cesarz,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,closed,Pizzeria
+132732,23.754357,-99.171288,Taqueria EL amigo ,No_Alcohol_Served,none,casual,completely,low,familiar,open,Mexican
+132723,22.148934,-101.019845,Gordas de morales,Full_Bar,section,informal,completely,medium,familiar,closed,Mexican
+132717,23.73186,-99.150437,tortas hawai,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,closed,Fast_Food
+132715,23.732423,-99.15866,tacos de la estacion,No_Alcohol_Served,none,informal,no_accessibility,low,quiet,open,Mexican
+132706,23.729216,-99.132357,Gorditas Dona Tota,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,closed,Mexican
+132668,23.738212,-99.151955,TACOS EL GUERO,No_Alcohol_Served,none,informal,completely,low,familiar,closed,Mexican
+132667,23.752697,-99.163359,little pizza Emilio Portes Gil,No_Alcohol_Served,none,informal,completely,low,familiar,closed,Armenian
+132665,23.736798,-99.134241,TACOS CORRECAMINOS,No_Alcohol_Served,none,informal,completely,low,familiar,closed,Mexican
+132663,23.752511,-99.166954,tacos abi,No_Alcohol_Served,none,informal,completely,low,familiar,closed,Mexican
+132630,23.752931,-99.164473,palomo tec,No_Alcohol_Served,none,informal,completely,low,familiar,closed,Mexican
+132626,23.737583,-99.135132,la perica hamburguesa,No_Alcohol_Served,none,informal,completely,medium,familiar,closed,Italian
+132613,23.752904,-99.165076,carnitas_mata,No_Alcohol_Served,permitted,informal,completely,medium,familiar,closed,Mexican
+132609,23.760268,-99.165865,Pollo_Frito_Buenos_Aires,No_Alcohol_Served,not permitted,informal,completely,low,quiet,closed,Fast_Food
+132608,23.758805,-99.16513,Hamburguesas La perica,No_Alcohol_Served,permitted,informal,completely,low,quiet,open,Mexican
+132594,23.752168,-99.165709,tacos de barbacoa enfrente del Tec,No_Alcohol_Served,not permitted,informal,completely,low,familiar,open,Mexican
+132584,23.752365,-99.165288,Gorditas Dona Tota,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,closed,Mexican
+132583,18.92229,-99.234332,McDonalds Centro,No_Alcohol_Served,not permitted,informal,partially,low,familiar,closed,American
+132572,22.141647,-100.992712,Cafe Chaires,No_Alcohol_Served,not permitted,informal,completely,low,familiar,closed,Cafeteria
+132560,23.752304,-99.166913,puesto de gorditas,No_Alcohol_Served,permitted,informal,no_accessibility,low,familiar,open,Regional
