@@ -5,8 +5,10 @@
 =======
 ## Treat-Yo-Self (Honeymoon in Mexico Edition)
 
+
 ### Description:
-<p>**********</p>
+<p>Machine learning was utilized to predict the restaurant ratings an individual wounld give based on the individual's profile data. For instance, some features that were included in the dataset were transport, food_rating, service_rating, and more. </p>
+
 
 ### Detailed Slide Presentation
 <a href= "https://docs.google.com/presentation/d/1MEKdM_I7KAya3GF9uhGG0RFmMDSZZikAc9Or7CqyWWE/edit?usp=sharing">Click Me To View Our Presentation</a>
@@ -30,7 +32,7 @@
 * <a href="https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings?select=userprofile.csv">Kaggle Dataset - User Profile</a>
 * <a href="https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings?select=chefmozcuisine.csv">Kaggle Dataset - Chef Moz Cuisine</a>
 * <a href="https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings?select=rating_final.csv">Kaggle Dataset - Final Ratings</a>
-* <a href="https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings?select=geoplaces2.csv">Geo Locations</a>
+* <a href="https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings?select=geoplaces2.csv">Geo Locations</a>Kaggle Datatset - Geoplaces2
 
 
 ### Order of Operations:
@@ -40,6 +42,14 @@
 * Machine Learning Using Supervised Learning
 * Front End Visuals Using Slides and Tableau
 
+
+### How to load data into SQL
+
+* Run query to create 5 tables: chefmozcuisine, geoplaces2, rating_final, usercuisine, and userprofile_table
+* Import the CSV file pertinent to each of the tables 
+* Run second query to combine the tables into finalcombouser and geocuisine, and load the data
+
+
 ### Our Findings:
-<p>**********</p>
+<p>I</p>
 >>>>>>> Stashed changes
