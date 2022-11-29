@@ -64,36 +64,5 @@ Rcuisine TEXT
 );
 
 
-CREATE TABLE COMBOUSER AS (
-    SELECT 
-    UPT.*,
-    RF.placeid,
-    RF.rating,
-    RF.food_rating,
-    RF.service_rating
-    FROM rating_final RF
-    INNER JOIN userprofile_table UPT
-    ON RF.user_id = UPT.user_id ) ;
-SELECT * FROM COMBOUSER
 
-
-CREATE TABLE FINALCOMBOUSER AS (
-    SELECT 
-    CU.*,
-    UC.rcuisine
-    FROM usercuisine UC
-    INNER JOIN COMBOUSER CU
-    ON UC.user_id = CU.user_id ) ;
-SELECT * FROM finalcombouser
-
-CREATE TABLE GEOCUISINE AS (
-    SELECT 
-    GP.*,
-    UC.rcuisine
-    FROM usercuisine UC
-    INNER JOIN GEOCUISINE GP
-    ON UC.user_id = GP.user_id ) ;
-SELECT * FROM geocuisine
-
-)
 

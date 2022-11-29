@@ -1,0 +1,9 @@
+CREATE TABLE FINALCOMBOUSER AS (
+    SELECT 
+    CU.*,
+    UC.rcuisine
+    FROM usercuisine UC
+    INNER JOIN COMBOUSER CU
+    ON UC.user_id = CU.user_id ) ;
+SELECT * FROM finalcombouser
+)
