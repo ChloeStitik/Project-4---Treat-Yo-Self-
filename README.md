@@ -1,7 +1,6 @@
 <<<<<<< Updated upstream
 # Project-4---Group 4-
 
-#Treat-Yo-Self
 =======
 ## Treat-Yo-Self (Honeymoon in Mexico Edition)
 
