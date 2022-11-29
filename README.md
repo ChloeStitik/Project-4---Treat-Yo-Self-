@@ -1,3 +1,3 @@
-# Project-4---Treat-Yo-Self-
+# Project-4---Group 4-
 
-read me
+#Treat-Yo-Self
