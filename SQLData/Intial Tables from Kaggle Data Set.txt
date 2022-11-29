@@ -1,7 +1,7 @@
-<!CREATE TABLE userprofile_table (
+CREATE TABLE userprofile_table (
   user_id TEXT,
-  latitude INTEGER,
-  longitude INTEGER,
+  latitude TEXT,
+  longitude TEXT,
   smoker TEXT,
   drink_level TEXT,
   dress_perference TEXT,
@@ -15,9 +15,9 @@
   religion TEXT,
   activity Text,
   color TEXT,
-  weight INTEGER,
+  weight INT,
   budget TEXT,
-  height INTEGER
+  height FLOAT
 );
 -- This table will contain only unique values
 CREATE TABLE rating_final (
@@ -31,16 +31,16 @@ CREATE TABLE rating_final (
 -- Customer table for first data set
 CREATE TABLE geoplaces2 (
   placeID INT,
-  latitude INT,
-  longitude INT,
-  the_geom_meter INT,
+  latitude TEXT,
+  longitude TEXT,
+  the_geom_meter TEXT,
   name TEXT,
   address TEXT,
   city TEXT,
   state TEXT,
   country TEXT,
   fax TEXT,
-  zip INT,
+  zip TEXT,
   alcohol TEXT,
   smoking_area TEXT,
   dress_code TEXT,
@@ -59,9 +59,11 @@ Rcuisine TEXT
 );
 -- fifth table for user cuisine
 CREATE TABLE usercuisine (
-user_id INT,
+user_id TEXT,
 Rcuisine TEXT
 );
+
+
 
 
 
