@@ -49,6 +49,45 @@
 * Run second query to combine the tables into finalcombouser and geocuisine, and load the data
 
 
-### Our Findings:
-<p>I</p>
+### Cleaning Data in Pandas
+
+Steps taken to clean dataset:
+* Imported dependencies
+* Connected to postgres
+* Dropped null values and question marks in original dataset
+
+
+### Machine Learning
+
+Attempt 1:
+* Dropped unused features (color, user_id, latitude, longitude, placeid)
+* Determined the number of unique values per feature
+* Interrogated the cuisine feature and decided to drop it due to the large number of values
+* Ran get_dummies to convert features to numeric values
+* Assigned Rating as the target and dropped Rating from the features
+* Split Data to Test and Train and ran StandardScaler
+* Created RandomForestClassifier and fit it with the data
+* Testing Score was 0.93711 and Training Score of 0.86189
+* Determined the features that had the most impact on the score
+
+Attempt 2:
+* The most impactful features from Attempt 1 were the service_rating and the food_rating.  We figured that was a kind of cheating so we dropped those features. Dropped unused features (food_rating, service_rating)
+* We reran the RandomForestClassifier and got passing results again
+* Training Score was 0.83682 and the Test Score was 0.78668
+* Most impactful features were hijos_kids, hijos_independent,and personality_hunter_ostentatious
+
+Optimization:
+* We took the data preparation from Attempt 2 
+* Used RandomForestRegressor library to run the Optimization
+* Created variables with n_estimators, max_features and random_state
+* Fit the data with the Optimizer and waiting 8 minutes for it to run
+* The Best Parameters were: 
+
+Random grid:  {'n_estimators': [20, 50, 100, 200, 300, 500, 700, 900, 1000], 'max_features': ['auto', 'sqrt'], 'random_state': [1, 2, 4, 8, 10]} 
+
+Best Parameters:  {'random_state': 1, 'n_estimators': 300, 'max_features': 'sqrt'} 
+
+
+### Tableau Findings
+
 >>>>>>> Stashed changes
