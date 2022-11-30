@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Project-4---Group 4-
 
 =======
