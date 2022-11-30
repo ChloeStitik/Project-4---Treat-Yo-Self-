@@ -8,6 +8,8 @@
 ### Description:
 <p>Machine learning was utilized to predict the restaurant ratings an individual wounld give based on the individual's profile data. For instance, some features that were included in the dataset were transport, food_rating, service_rating, and more. </p>
 
+### Our Tableau Presentation
+<a href= "https://public.tableau.com/shared/8DDGDS9TD?:display_count=n&:origin=viz_share_link">Click Me To View Our Visuals</a>
 
 ### Detailed Slide Presentation
 <a href= "https://docs.google.com/presentation/d/1MEKdM_I7KAya3GF9uhGG0RFmMDSZZikAc9Or7CqyWWE/edit?usp=sharing">Click Me To View Our Presentation</a>
@@ -31,7 +33,7 @@
 * <a href="https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings?select=userprofile.csv">Kaggle Dataset - User Profile</a>
 * <a href="https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings?select=chefmozcuisine.csv">Kaggle Dataset - Chef Moz Cuisine</a>
 * <a href="https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings?select=rating_final.csv">Kaggle Dataset - Final Ratings</a>
-* <a href="https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings?select=geoplaces2.csv">Geo Locations</a>Kaggle Datatset - Geoplaces2
+* <a href="https://www.kaggle.com/datasets/uciml/restaurant-data-with-consumer-ratings?select=geoplaces2.csv">Kaggle Datatset - Geoplaces2</a>
 
 
 ### Order of Operations:
@@ -89,5 +91,11 @@ Best Parameters:  {'random_state': 1, 'n_estimators': 300, 'max_features': 'sqrt
 
 
 ### Tableau Findings
+* The area of Mexico we will be sending Connor and his fiancee to for their honeymoon is central Mexico, where the foodies go. 
+* The majority of our reviewers are millennials with the top year of birth being 1991.
+* Our reviewers are primarily students who take public transportation to their favorite restaurants.
+* These reviewers consider themselves casual drinker or non-drinkers.
+* Our reviewers are mostly single, catholics with a medium budget.
+* Our reviewers with a high budget seem to be young professionals without kids.
 
 >>>>>>> Stashed changes
