@@ -97,5 +97,3 @@ Best Parameters:  {'random_state': 1, 'n_estimators': 300, 'max_features': 'sqrt
 * These reviewers consider themselves casual drinker or non-drinkers.
 * Our reviewers are mostly single, catholics with a medium budget.
 * Our reviewers with a high budget seem to be young professionals without kids.
-
->>>>>>> Stashed changes
